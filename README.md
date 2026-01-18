@@ -45,6 +45,9 @@ The dashboard provides insights into sales trends, customer demographics, order 
 
 ## Dashboard Preview
 
+![Dashboard Preview](dashboard.png)
+
+
 ## How to Use
 - Download the Excel file from the repository  
 - Open in Microsoft Excel (2016 or later recommended)  
