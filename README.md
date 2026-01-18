@@ -1,4 +1,4 @@
-XYZ Store Sales Analysis Dashboard (Excel)
+#XYZ Store Sales Analysis Dashboard (Excel)
 Project Overview
 
 This project showcases an interactive Excel dashboard created to analyze annual sales performance of XYZ Store for the year 2025.
