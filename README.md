@@ -58,7 +58,7 @@ Order Status
 
 Dataset used for learning and analytical purposes only.
 
-Dashboard Insights
+## Dashboard Insights
 
 Identified monthly sales and order trends
 
@@ -72,9 +72,9 @@ Understood age-group-based purchasing behavior
 
 Evaluated channel-wise sales performance
 
-Dashboard Preview
+## Dashboard Preview
 
-How to Use
+## How to Use
 
 Download the Excel file from the repository
 
@@ -84,7 +84,7 @@ Use slicers to filter by month, category, or channel
 
 Explore insights through interactive charts
 
-Use Case
+## Use Case
 
 Data Analyst portfolio project
 
