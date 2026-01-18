@@ -1,10 +1,10 @@
-#XYZ Store Sales Analysis Dashboard (Excel)
-Project Overview
+# XYZ Store Sales Analysis Dashboard (Excel)
+## Project Overview
 
 This project showcases an interactive Excel dashboard created to analyze annual sales performance of XYZ Store for the year 2025.
 The dashboard provides insights into sales trends, customer demographics, order status, state-wise performance, and sales channels, helping businesses make data-driven decisions.
 
-Key Features
+## Key Features
 
 Interactive Excel dashboard
 
@@ -34,7 +34,7 @@ Slicers
 
 Data Cleaning & Formatting
 
-Dataset
+# Dataset
 
 Sales data of XYZ Store (2025)
 
